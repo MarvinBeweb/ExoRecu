@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author msarvin
+ * @author marvin
  */
 public class Repertoire {
     public String nom = "";
